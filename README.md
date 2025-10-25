@@ -14,7 +14,6 @@ It allows users to upload an image, choose an edge detection algorithm (Canny, S
 ### **1️⃣ Clone this repository**
 ```bash
 git clone https://github.com/<Iqra-batool853>/streamlit-edge-detection.git
-cd streamlit-edge-detection
 ### Create & activate virtual environment
 python -m venv venv
 # For CMD
