@@ -22,9 +22,9 @@ venv\Scripts\activate
 streamlit run app.py
 
 ## Sample Image
-![Sample Image](Images/sample image.jpg)
+![Sample Image](Images/sample_image.jpg)
 
 ## Output Image
-![Output Image](Images/output image.jpg)
+![Output Image](Images/output_image.jpg)
 
 
