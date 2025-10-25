@@ -17,12 +17,16 @@ git clone https://github.com/<Iqra-batool853>/streamlit-edge-detection.git
 cd streamlit-edge-detection
 ### Create & activate virtual environment
 python -m venv venv
-# For PowerShell
-.\venv\Scripts\Activate.ps1
 # For CMD
 venv\Scripts\activate
 ### How to Run the Application
 streamlit run app.py
 
-<img width="330" height="477" alt="IMAGE" src="https://github.com/user-attachments/assets/3c015d6c-c20f-4931-909d-b0b72c94daa4" />
+Sample Image
+<img width="955" height="712" alt="image" src="https://github.com/user-attachments/assets/8e1363b8-f45a-497e-aa2a-585f1d9f96de" />
+Edge Detection Output
+<img width="1240" height="665" alt="image" src="https://github.com/user-attachments/assets/26beb2da-0176-4282-9544-1af5150ae100" />
+
+
+
 
