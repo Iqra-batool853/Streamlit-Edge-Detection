@@ -21,11 +21,8 @@ venv\Scripts\activate
 ### How to Run the Application
 streamlit run app.py
 
-Sample Image
-<img width="955" height="712" alt="image" src="https://github.com/user-attachments/assets/8e1363b8-f45a-497e-aa2a-585f1d9f96de" />
-Edge Detection Output
-<img width="1240" height="665" alt="image" src="https://github.com/user-attachments/assets/26beb2da-0176-4282-9544-1af5150ae100" />
-
-
-
+## Sample Image
+![sample image](https://github.com/user-attachments/assets/a4672148-3a65-4fa3-8a14-8371f7f2c532)
+## output Image
+![output image](https://github.com/user-attachments/assets/ba6904b0-b75c-4716-b4d3-a3787b2e062a)
 
