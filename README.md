@@ -1,5 +1,5 @@
-# Edge Detection App using Streamlit & OpenCV
-Description
+## Edge Detection App using Streamlit & OpenCV
+## Description
 This project is an interactive **Edge Detection Application** built with **Streamlit** and **OpenCV**.  
 It allows users to upload an image, choose an edge detection algorithm (Canny, Sobel, Laplacian), and adjust parameters in real time.
 ##  Features
