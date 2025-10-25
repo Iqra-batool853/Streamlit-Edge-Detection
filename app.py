@@ -73,7 +73,7 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
- 
+
 # --- Image Upload ---
 uploaded_file = st.file_uploader("📂 Upload an image", type=["jpg", "jpeg", "png", "bmp"])
 
@@ -83,7 +83,7 @@ if uploaded_file is not None:
     col1, col2 = st.columns(2)
     with col1:
         st.subheader(" Original Image")
-        st.image(image, width='stretch')
+        st.image(image, width='stretch')    
 
     # --- Algorithm Selection ---
     st.sidebar.header("⚙️ Choose Algorithm & Parameters")
